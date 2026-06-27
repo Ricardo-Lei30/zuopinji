@@ -13,14 +13,14 @@
 title: : 丁磊AI作品集
 
 # Your name to show in the footer
-author: Some Person
+author: 丁磊
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "AIGC内容创作者 | 信管专业应届生"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
